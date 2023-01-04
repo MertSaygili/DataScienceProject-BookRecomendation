@@ -12,4 +12,6 @@ DataScience CENG313 - Project
   <li>book_dataset -> https://www.kaggle.com/code/aashidutt3/eda-amazon-data-science-books/notebook </li>
 </ul>
 
+<p>to see the result of these reader_analyze.ipynb and 3d_analyze.ipynb you need execute the codes</p>
+
 ![zubat_poster](https://user-images.githubusercontent.com/74828364/210616125-b0516aed-0fc7-4ff6-a5ee-cf061c76f0bd.jpg)
